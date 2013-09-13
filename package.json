@@ -1,0 +1,31 @@
+{
+  "name": "struts-to-javaee6",
+  "version": "0.0.0",
+  "description": "Java EE6 tutorial for struts1.X users",
+  "main": "index.md",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mitsuruog/struts-to-javaee6.git"
+  },
+  "keywords": [
+    "java",
+    "javaee",
+    "javaee6",
+    "struts"
+  ],
+  "author": "mitsuruog",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "ac05260018be38c41ba649ac78c320d8a573663c",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-concat": "~0.3.0"
+  }
+}

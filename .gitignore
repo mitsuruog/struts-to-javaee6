@@ -4,3 +4,6 @@
 *.jar
 *.war
 *.ear
+
+# grunt tasks #
+node_modules
